@@ -28,4 +28,4 @@ It was built entirely from scratch using a custom-labeled dataset and tested on 
 
 ## 🚀 Demo Results
 **Prediction Example:**
-
+Class: Entry | Confidence: 0.19
